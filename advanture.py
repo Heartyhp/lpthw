@@ -18,7 +18,7 @@ while response not in yes_no:
         print("You are not ready for this quest. Goodbye, " + name + ".")
         quit()
     else: 
-        print("I didn't understand that.\n")
+        print("I didn't understand that ok.\n")
  
 # Next part of game
 response = ""
